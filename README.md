@@ -1,5 +1,5 @@
 # CS50 Final Project
-  This is the **ARCH ProjectLAB**, a website programmed in HTML with Python, SQL and JavaScript and stylized with CSS in order to facilitate the preconception of the architectural project, a stage where the design variables are defined, how they should materialize in space, under what guidelines and what needs
+  This is the **ARCH ProjectLAB**, a website programmed in HTML with Python, SQL and JavaScript and stylized with CSS in order to facilitate the preconception of the architectural project, a stage where the design variables are defined, how they should materialize in space, under what guidelines and what needs.
 
 ## How to begin?
   The program is based on an intuitive, friendly interface with simple functionality: just register, create your new project and start editing it. You can also develop several projects simultaneously by switching the editing tabs through your Portfolio. To do this, after registering and logging in, go to the _**New Projects**_ guide and create your project filling out the datasheet. Then, the workspace is open! And now things start to get interesting.
